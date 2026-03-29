@@ -1,7 +1,7 @@
 ---
 title: 'Sýrové lívance'
 date: '2026-03-29'
-image: 'syrove-livance.png'
+image: 'syrove-livance.webp'
 timeToCook: '1 hodina'
 tags: ['snídaně', 'večeře']
 ingredients:
