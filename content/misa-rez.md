@@ -20,6 +20,6 @@ ingredients:
                 ],
         },
         { title: 'Náplň', items: ['14dkg ml. cukru', '16dkg másla', 1/2 kg tvarohu] },
-        { title: 'Poleva', items: ['12dkg něčeho', '10dkg ml. cukru', '3dkg kakaa'] },
+        { title: 'Poleva', items: ['12dkg másla', '10dkg ml. cukru', '3dkg kakaa'] },
     ]
 ---
